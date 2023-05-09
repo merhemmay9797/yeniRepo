@@ -6,5 +6,6 @@ public class Class01 {
         //version 3 calismalar
         //version 4
         // git hu degisilker
+        //local den sevgilerle
     }
 }
